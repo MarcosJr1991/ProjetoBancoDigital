@@ -1,0 +1,6 @@
+T:\Cursos Livres\9900128147_PROGRAMADOR DE SISTEMAS_11052020\@ProfJefferson\BancoDigital\BancoDigital\BancoDigital\bin\Debug\BancoDigital.exe.config
+T:\Cursos Livres\9900128147_PROGRAMADOR DE SISTEMAS_11052020\@ProfJefferson\BancoDigital\BancoDigital\BancoDigital\bin\Debug\BancoDigital.exe
+T:\Cursos Livres\9900128147_PROGRAMADOR DE SISTEMAS_11052020\@ProfJefferson\BancoDigital\BancoDigital\BancoDigital\bin\Debug\BancoDigital.pdb
+T:\Cursos Livres\9900128147_PROGRAMADOR DE SISTEMAS_11052020\@ProfJefferson\BancoDigital\BancoDigital\BancoDigital\obj\Debug\BancoDigital.csprojAssemblyReference.cache
+T:\Cursos Livres\9900128147_PROGRAMADOR DE SISTEMAS_11052020\@ProfJefferson\BancoDigital\BancoDigital\BancoDigital\obj\Debug\BancoDigital.exe
+T:\Cursos Livres\9900128147_PROGRAMADOR DE SISTEMAS_11052020\@ProfJefferson\BancoDigital\BancoDigital\BancoDigital\obj\Debug\BancoDigital.pdb
